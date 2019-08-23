@@ -72,6 +72,7 @@
 				<p>이 사이트는 JSP, Java, Mysql을 사용해서 만든 웹 사이트입니다. 디자인 템플릿은 bootstrap을 사용했습니다. 이 프로젝트는 개인 프로젝트입니다. </p>
 				<p>개발 환경은 이클립스 Jee 2019-06, mysql 8.0.17을 사용했으며, 개발 목적은 일기또는 메모와 가계부를 한번에 사용할 수 있도록 하기위해 만든 웹사이트 입니다.</p>
 				<p><a class="btn btn-primary btn-pull" href="mainjp.jsp" role="button">日本語で説明をみる</a></p>
+				<p><a class="btn btn-primary btn-pull" href="https://github.com/wonyG/BNH" role="button">github에서 소스코드 보기</a></p>
 			</div>
 		</div>
 	</div>

@@ -72,6 +72,7 @@
 				<p>このサイトは,JSP,JAVA,MYSQLを使って作ったウェブサイトです。デザインテンプレートはbootstrapを使用しました。 このプロジェクトは個人プロジェクトです。 </p>
 				<p>開発環境はEclipse Jee 2019-06, MYSQL 8.0.17を使用しました。 開発目的は,日記またはメモと家計簿を一つのサイトで使えるために作ったウェブサイトです。</p>
 				<p><a class="btn btn-primary btn-pull" href="main.jsp" role="button">한국어로 설명 보기</a></p>
+				<p><a class="btn btn-primary btn-pull" href="https://github.com/wonyG/BNH" role="button">githubでソースコードをみる</a></p>
 			</div>
 		</div>
 	</div>
